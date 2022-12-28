@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kunalpanchalbotsksh
+- 👋 Hi, I’m @Kunalpanchal
 - 👀 I’m interested in artificial intelligence and Robotics 
 - 🌱 I’m currently learning Everything related to Robotics
 - 💞️ I’m looking to collaborate on Robot kinematics
